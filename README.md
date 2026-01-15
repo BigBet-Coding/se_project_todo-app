@@ -24,8 +24,14 @@ https://bigbet-coding.github.io/se_project_todo-app/
 
 ## Screenshots
 
-![Todo App Screenshot](screenshots/basic-overview.png)
+### Main App View
 
-![Todo App Screenshot](screenshots/pop-up_modal.png)
+![Main App](./screenshots/basic-overview.png)
 
-![Todo App Screenshot](screenshots/validation-proof.png)
+### Add Todo Popup
+
+![Popup Modal](./screenshots/pop-up_modal.png)
+
+### Form Validation
+
+![Validation](./screenshots/validation-proof.png)
