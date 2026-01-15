@@ -30,7 +30,7 @@ https://bigbet-coding.github.io/se_project_todo-app/
 
 ### Add Todo Popup
 
-![Popup Modal](./screenshots/pop-up_modal.png)
+![Popup Modal](./screenshots/pop-up-modal.png)
 
 ### Form Validation
 
