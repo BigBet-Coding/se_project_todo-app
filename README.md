@@ -1,17 +1,31 @@
-# Simple Todo App
+# SE Project Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple to-do list application that lets users add and remove tasks.
 
-## Functionality
+## Features
 
-Give a more detailed explanation of the project and its functionality.
+- Add new to-do items
+- Delete to-do items
+- Form validation to prevent empty submissions
 
-## Technology
+## Technologies & Techniques
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML
+- CSS
+- JavaScript (ES6 Modules)
+- Object-Oriented Programming (classes)
+- DOM manipulation
+- Git & GitHub
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
+https://bigbet-coding.github.io/se_project_todo-app/
 
-- ADD LINK HERE
+## Screenshots
+
+![Todo App Screenshot](screenshots/basic-overview.png)
+
+![Todo App Screenshot](screenshots/pop-up_modal.png)
+
+![Todo App Screenshot](screenshots/validation-proof.png)
